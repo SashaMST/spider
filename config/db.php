@@ -1,6 +1,6 @@
 <?php
 $db = [
-    'class' => 'DB',
+    'class' => 'Db',
     'username' => 'root',
     'password' => '',
     'dns' => 'mysql:host=localhost;dbname=test',
